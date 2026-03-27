@@ -1,25 +1,65 @@
-Week 2
+# Week 2 – Learning Journal
 
-Learning Activities & Resources
+## Learning Activities & Resources
 
-This week I focused on learning how Joomla menu items, contacts, categories and articles work together. I read parts of the Joomla documentation about Contacts and Menu Item Types. I also watched a few short YouTube videos explaining how menu items control what content shows on a page.
+This week I focused on learning how Joomla menu items, contacts, categories, and articles work together. I read parts of the Joomla documentation about Contacts and Menu Item Types and watched a few YouTube videos explaining how menu items control what content appears on a page.
 
-I also looked into how Custom Fields work in the Contacts component and learned that they must be linked to the correct category to appear in the form.
+Resources used:
+- Joomla documentation (Contacts and Menu Items)
+- YouTube tutorials on Joomla menu structure
+- ChatGPT for troubleshooting and understanding relationships between components
 
-Estimated Hours
+Some prompts I used:
+- "Why is my Joomla article not showing on the page?"
+- "Difference between Joomla article and contact menu item"
+- "How do Joomla menu items control page content?"
 
-Around 5 hours.
+These helped me understand how Joomla structure works instead of just guessing.
 
-Content Insights
+---
 
-This week I understood that in Joomla, the Menu Item Type is very important. It decides what content is shown on the page. I realised that editing an article will not change anything if the menu item is set to show a Contact instead of an Article.
+## Estimated Hours
 
-I also learned that Articles and Contacts are separate parts of Joomla, and they have different categories. That is why my content was not showing at first.
+Around 5 hours
 
-Another important thing I learned is that display settings like “Show Page Heading” can affect what appears on the page. Most of my problems were not mistakes in writing content, but mistakes in settings and structure.
+---
 
-Career / Employability / Learning Insights
+## Content Insights
 
-This week helped me improve my problem-solving skills. At first, I was just trying random changes to fix the issue. Later, I started reading documentation and checking settings step by step, which worked much better.
+This week I understood that in Joomla, the **Menu Item Type is the most important part** because it controls what content is displayed on the page.
 
-I realised that in real jobs, employers expect you to understand how systems work, not just change text. Learning how to troubleshoot properly is an important skill for my future career. I also learned that staying calm and thinking logically helps more than getting frustrated.
+At first, I was editing an article but nothing was changing on the website. Later, I realised that the menu item was set to display a **Contact page instead of an Article**. Because of this, my changes were not visible.
+
+I also learned that:
+- Articles and Contacts are separate components
+- Each has its own categories
+- Content will only show if everything is linked correctly
+
+### Problem I faced
+
+My content was not appearing even after updating it multiple times. I initially thought it was a problem with my article, but the real issue was with the menu item settings.
+
+### How I solved it
+
+I checked the menu item configuration and noticed it was pointing to the wrong component. After changing it to the correct type, the content appeared properly.
+
+I also learned that settings like **“Show Page Heading”** and display options can affect what is visible on the page. Most of my issues were not coding mistakes, but configuration mistakes.
+
+Using ChatGPT helped me understand the relationship between menu items, articles, and contacts more clearly, instead of randomly trying different options.
+
+---
+
+## Career / Employability / Learning Insights
+
+This week helped me improve my problem-solving skills. At first, I was making random changes hoping something would work. Later, I changed my approach and started checking things step by step, which was much more effective.
+
+I realised that in real jobs, understanding how a system works is very important. It is not enough to just edit content — you need to understand the structure and logic behind it.
+
+I also learned that troubleshooting is a key skill in IT. Instead of guessing, it is better to:
+- identify the problem
+- check settings carefully
+- test one change at a time
+
+Another important learning is that asking for help (like using documentation or ChatGPT) is useful, but I should still try to understand the solution myself.
+
+Overall, this week helped me become more patient, logical, and confident in solving technical problems, which are important skills for my future career.
